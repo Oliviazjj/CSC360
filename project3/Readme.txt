@@ -1,7 +1,4 @@
--------------------------------------------
-Jingjing Zhu
-V00828540
-Csc 360, Project#3
+
 -------------------------------------------
 In this project:
 diskinfo is to get details of <INPUT_FILE>;
