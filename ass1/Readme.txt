@@ -1,6 +1,4 @@
 
-Jingjing Zhu
-CSC360 Assignment #1
 -------------------------explanation of files ----------------------
 PMan.c:combination of methods to run a program in the background and continus accepting input from the user at the same time. PMan supports the following commands: bg, bglist, bgkill, bgstop, bgstart, and pstat.
 Makefile: compile PMan.c
