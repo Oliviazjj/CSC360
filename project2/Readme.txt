@@ -1,6 +1,4 @@
 
-Jingjing Zhu
-CSC360 Assignment #2
 -------------------------explanation of file ----------------------
 This project is used to make a task scheduler
 MFS.c:
